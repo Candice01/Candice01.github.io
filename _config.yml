@@ -12,16 +12,9 @@ title:            Game of Life
 tagline:          'Great minds have purpose, others have wishes.﻿——Neil Patel'
 description:      'Hello,World! Here is my personal weblog about technology and life.'
 url:              http://xiaotaozi.top/
-
 author:
   name:           'Xiaotaozi'
   url:            http://xiaotaozi.top/
-=======
-url:              http://xiaotaozi.top
-
-author:
-  name:           'Xiaotaozi'
-  url:            http://xiaotaozi.top
 
 paginate:         5
 
